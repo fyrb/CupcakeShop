@@ -1,9 +1,9 @@
 package helloworld;
-//online123
+//o123
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
-
+//import
 
 
 @Path("/hi")
@@ -12,6 +12,4 @@ public class HelloWorldRest {
 	public String getMsg(){
 		return "Hello World from Jersey";
 	}
-//drin
 }
-//666
