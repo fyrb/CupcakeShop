@@ -12,6 +12,6 @@ public class HelloWorldRest {
 	public String getMsg(){
 		return "Hello World from Jersey";
 	}
-//snjs
+
 }
 //666
