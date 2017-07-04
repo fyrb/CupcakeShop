@@ -1,9 +1,7 @@
 package helloworld;
-//o123
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
-//import
 
 
 @Path("/hi")
