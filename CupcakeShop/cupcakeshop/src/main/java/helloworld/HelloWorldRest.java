@@ -1,5 +1,4 @@
 package helloworld;
-//Möp
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
@@ -12,5 +11,3 @@ public class HelloWorldRest {
 		return "Hello World from Jersey";
 	}
 }
-//Test
-//234
